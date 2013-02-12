@@ -1,0 +1,16 @@
+{
+  "name": "tb",
+  "repo": "kelonye/tb",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+  },
+  "keywords": [
+    "twitter",
+    "bootstrap"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}
