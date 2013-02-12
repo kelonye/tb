@@ -12,6 +12,7 @@
     "bootstrap"
   ],
   "scripts": [
-    "index.js"
+    "index.js",
+    "bootstrap.js"
   ]
 }
