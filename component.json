@@ -5,6 +5,7 @@
   "license": "MIT",
   "description": "",
   "dependencies": {
+    "component/jquery": "*"
   },
   "keywords": [
     "twitter",
